@@ -7,6 +7,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+## IDEs
+.idea
+.vscode
+/.emacs.de
+.vs
+
 # User-specific files
 *.rsuser
 *.suo
